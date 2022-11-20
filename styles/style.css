@@ -25,7 +25,7 @@ img {
     align-items:center;
     justify-content:center;
     padding:100px 0;
-    background: url("images/new-york-city-skyline.jpg");
+    background: url("/images/new-york-city-skyline.jpg");
     background-size:cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
